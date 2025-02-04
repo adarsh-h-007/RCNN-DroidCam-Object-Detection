@@ -13,7 +13,8 @@ In this project, we’ll train an RCNN model on a custom dataset of images featu
 ## Step 1: Downloading and extracting the Images  
 The first step is to download the dataset from this [link](https://drive.google.com/file/d/1OIvEIFwkrTDZkjfE-0tlxPGKdaYfgp_W/view?usp=drive_link). Next extract the `custom_sample_dataset.zip` file. The folder is structured as follows:  
 
-**_Insert Folder Structure Here_**  
+
+![Directory Structure](https://github.com/adarsh-h-007/RCNN-DroidCam-Object-Detection/blob/main/Directory%20Structure.png)
 
 You can use your own dataset if you want. I used `labelimg` to label 131 images of the power bank and 130 images of my spectacle case. There are plenty of tutorials available on labeling using `labelimg`; you can check them out if needed.  
 
@@ -101,7 +102,7 @@ Example:
 ```
 droidcam_url = "http://XXX.XXX.X.XX:4747/video"
 ```
-
+![Result](https://github.com/adarsh-h-007/RCNN-DroidCam-Object-Detection/blob/main/Result.png)
 ## Footnote
 That’s it! I hope this guide helps you.
 
