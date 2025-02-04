@@ -10,8 +10,8 @@ In this project, we’ll train an RCNN model on a custom dataset of images featu
 
 ---
 
-## Step 1: Extracting the Images  
-The first step is to extract the `custom_sample_dataset.zip` file. The folder is structured as follows:  
+## Step 1: Downloading and extracting the Images  
+The first step is to download the dataset from this [link](https://drive.google.com/file/d/1OIvEIFwkrTDZkjfE-0tlxPGKdaYfgp_W/view?usp=drive_link). Next extract the `custom_sample_dataset.zip` file. The folder is structured as follows:  
 
 **_Insert Folder Structure Here_**  
 
